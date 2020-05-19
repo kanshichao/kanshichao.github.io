@@ -6,7 +6,7 @@ He received the B.E. and M.S. degrees from the School of Computer and Informatio
 
 * 2020-04-20: One paper titled as "A Novel Single Image Dehazing Model With Input-Size Flexibility Conditional Generative Adversarial Network" is now under review on journal of IEEE Transactions on Emerging Topics in Computational Intelligence.
 
-* 2020-03-20: One paper titled as "Zero-Shot Learning to Index on Semantic Trees for Scalable Image Re-trieval" is now in peer review on journal of IEEE Transactions on Image Processing.
+* 2020-03-20: One paper titled as "Zero-Shot Learning to Index on Semantic Trees for Scalable Image Retrieval" is now in peer review on journal of IEEE Transactions on Image Processing.
 
 * 2020-03-05: One paper titled as "Deep Locally Linear Embedding over Graph Neural Networks for Metric Learning" is now under review on ECCV2020.
 
