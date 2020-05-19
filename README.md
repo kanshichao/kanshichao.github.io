@@ -1,8 +1,6 @@
 ## Introdution
 
-You can use the [editor on GitHub](https://github.com/kanshichao/kanshichao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He received the B.E. and M.S. degrees from the School of Computer and Information Science, Beijing Jiaotong University, Beijing, China, in 2014 and 2016, respectively, where he is currently pursuing the Ph.D. degree. His research interests include general image retrieval, object search, object detection, large-scale image retrieval, metric learning, and deep learning. He is familiar with C++, MATLAB, Python and JAVA programming, and now worked on deep learning related programming based on caffe, pytorch and tensorflow. He is a visiting scholor in University of Missouri during 2019-2020 worked with [Prof. Zhihai He](https://scholar.google.com/citations?hl=zh-CN&user=MtGYBCcAAAAJ). For the information of his published papers, please visit his [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=iFp1FOMAAAAJ)
 
 ### Markdown
 
