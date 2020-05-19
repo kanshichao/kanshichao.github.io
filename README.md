@@ -15,3 +15,5 @@ Starting from undergraduate, he won many competitive awards, such as the Beijing
 ### Read Books (started from 2016)
 《平凡的世界》，《红楼梦》，《边城》，《尘埃落定》，《人世间》，《月亮和六便士》，《甲马》，《人生》，《围城》，《活着》，《林徽因传》，《徐志摩传》，《看见》，《细胞生物学》，《Introduction To Deep Learning》
 
+### Contact
+Email: kanshichao10281078@126.com
