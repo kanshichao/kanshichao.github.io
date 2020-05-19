@@ -4,11 +4,11 @@ He received the B.E. and M.S. degrees from the School of Computer and Informatio
 
 ### News
 
-#### One paper titled as "Deep Locally Linear Embedding over Graph Neural Networks for Metric Learning" is now under review on ECCV2020.
+#### 2020-04-20: One paper titled as "A Novel Single Image Dehazing Model With Input-Size Flexibility Conditional Generative Adversarial Network" is now under review on journal of IEEE Transactions on Emerging Topics in Computational Intelligence.
 
-#### One paper titled as "Zero-Shot Learning to Index on Semantic Trees for Scalable Image Re-trieval" is now in peer review on journal of IEEE Transactions on Image Processing.
+#### 2020-03-20: paper titled as "Zero-Shot Learning to Index on Semantic Trees for Scalable Image Re-trieval" is now in peer review on journal of IEEE Transactions on Image Processing.
 
-#### One paper titled as "A Novel Single Image Dehazing Model With Input-Size Flexibility Conditional Generative Adversarial Network" is now under review on journal of IEEE Transactions on Emerging Topics in Computational Intelligence.
+#### 2020-03-05 One paper titled as "Deep Locally Linear Embedding over Graph Neural Networks for Metric Learning" is now under review on ECCV2020.
 
 ### Read Books
 《平凡的世界》，《红楼梦》，《边城》，《尘埃落定》，《人世间》，《月亮和六便士》，《甲马》，《人生》，《围城》，《活着》，《林徽因传》，《徐志摩传》，《看见》，《细胞生物学》，《Introduction To Deep Learning》
