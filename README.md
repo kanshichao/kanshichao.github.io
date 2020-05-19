@@ -2,3 +2,6 @@
 
 He received the B.E. and M.S. degrees from the School of Computer and Information Science, Beijing Jiaotong University, Beijing, China, in 2014 and 2016, respectively, where he is currently pursuing the Ph.D. degree with the advisor of [Prof. Yigang Cen](http://faculty.bjtu.edu.cn/8127/). He is a visiting scholor (with funding from the China Scholarship Council) in University of Missouri during 2019-2020 and worked with [Prof. Zhihai He](https://engineering.missouri.edu/faculty/zhihai-henry-he/). His research interests include general image retrieval, object search, object detection, large-scale image retrieval, metric learning, and deep learning. He is familiar with C++, MATLAB, Python and JAVA programming, and now he is working on deep learning related research and programming based on caffe, pytorch and tensorflow framework. For the information of his published papers, please visit his [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=iFp1FOMAAAAJ)
 
+### Read Books
+《平凡的世界》，《红楼梦》，《边城》，《尘埃落定》，《人世间》，《月亮和六便士》，《甲马》，《人生》，《围城》，《活着》，《林徽因传》，《徐志摩传》，《不是人间富贵花：民国名媛情事》，《灵魂有香气的女子》，《好吗好的》，《张国荣的影梦人生》，《看见》，《余秋雨散文》，《白轮船》，《心的翅膀》，《细胞生物学》，《Introduction To Deep Learning》
+
