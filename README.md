@@ -10,6 +10,6 @@ He received the B.E. and M.S. degrees from the School of Computer and Informatio
 
 * 2020-03-05: One paper titled as "Deep Locally Linear Embedding over Graph Neural Networks for Metric Learning" is now under review on ECCV2020.
 
-### Read Books (From 2016)
+### Read Books (started from 2016)
 《平凡的世界》，《红楼梦》，《边城》，《尘埃落定》，《人世间》，《月亮和六便士》，《甲马》，《人生》，《围城》，《活着》，《林徽因传》，《徐志摩传》，《看见》，《细胞生物学》，《Introduction To Deep Learning》
 
