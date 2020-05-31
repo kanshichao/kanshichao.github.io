@@ -3,11 +3,12 @@ sudo: false
 language: go
 git:
     depth: 1
-install: go get -v github.com/kanshichao
+install: go get -v github.com/kanshichao.github.io
 script: hugo
 deploy:
     provider: pages
     skip_cleanup: true
+    github_token: 4d1d69f28122aaac3aaa38f59e3d96c9e55588b7
     on:
         branch: master
     local_dir: public
