@@ -8,7 +8,7 @@ script: hugo
 deploy:
     provider: pages
     skip_cleanup: true
-    github_token: 4d1d69f28122aaac3aaa38f59e3d96c9e55588b7
+    github_token: $myblog
     on:
         branch: master
     local_dir: public
